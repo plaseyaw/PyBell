@@ -380,7 +380,7 @@ class SoundScheduler:
         mod_win.title("About: PyBell")
         mod_win.geometry("400x300")
         
-        tk.Label(mod_win, text="version: 1.1", font=("Times New Roman", 12)).pack(pady=10)
+        tk.Label(mod_win, text="version: 1.2", font=("Times New Roman", 12)).pack(pady=10)
         tk.Label(mod_win, text="Author: Zer0point(git: plaseyaw)", font=("Times New Roman", 12)).pack(pady=10)
         tk.Label(mod_win, text="Licence: GPG 3.0", font=("Times New Roman", 12)).pack(pady=10)
         
